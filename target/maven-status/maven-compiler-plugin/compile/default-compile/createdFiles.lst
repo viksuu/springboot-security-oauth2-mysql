@@ -1,0 +1,10 @@
+com\viksuu\tech\security\config\AuthorizationServerConfig.class
+com\viksuu\tech\security\config\SecurityConfig.class
+com\viksuu\tech\security\model\Role.class
+com\viksuu\tech\security\model\User.class
+com\viksuu\tech\security\service\impl\UserService.class
+com\viksuu\tech\security\resource\UserResource.class
+com\viksuu\tech\security\SecurityApplication.class
+com\viksuu\tech\security\repository\UserRepository.class
+com\viksuu\tech\security\config\check.class
+com\viksuu\tech\security\config\ResourceServerConfig.class

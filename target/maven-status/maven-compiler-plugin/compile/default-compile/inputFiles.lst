@@ -1,0 +1,10 @@
+C:\Personal_Data\spring-boot-project\security\src\main\java\com\viksuu\tech\security\model\User.java
+C:\Personal_Data\spring-boot-project\security\src\main\java\com\viksuu\tech\security\SecurityApplication.java
+C:\Personal_Data\spring-boot-project\security\src\main\java\com\viksuu\tech\security\config\SecurityConfig.java
+C:\Personal_Data\spring-boot-project\security\src\main\java\com\viksuu\tech\security\model\Role.java
+C:\Personal_Data\spring-boot-project\security\src\main\java\com\viksuu\tech\security\resource\UserResource.java
+C:\Personal_Data\spring-boot-project\security\src\main\java\com\viksuu\tech\security\service\impl\UserService.java
+C:\Personal_Data\spring-boot-project\security\src\main\java\com\viksuu\tech\security\repository\UserRepository.java
+C:\Personal_Data\spring-boot-project\security\src\main\java\com\viksuu\tech\security\config\AuthorizationServerConfig.java
+C:\Personal_Data\spring-boot-project\security\src\main\java\com\viksuu\tech\security\config\ResourceServerConfig.java
+C:\Personal_Data\spring-boot-project\security\src\main\java\com\viksuu\tech\security\config\check.java
