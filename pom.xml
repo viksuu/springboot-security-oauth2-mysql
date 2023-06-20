@@ -21,7 +21,7 @@
 		<spring.cloud.oauth2.version>2.1.2.RELEASE
 		</spring.cloud.oauth2.version>
 		<jedis.version>2.9.1</jedis.version>
-		<spring.boot.version>2.1.2.RELEASE</spring.boot.version>
+		<spring.boot.version>2.1.4.RELEASE</spring.boot.version>
 	</properties>
 
 	<dependencies>
